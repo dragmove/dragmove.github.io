@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "title": "Capture - Fullscreen Capture",
+    "subtitle": "Webpage Fullscreen Capture",
+    "description":
+      "iOS Native App to capture entire webpage on iPhone screen. Design, and developed by Swift language. Support English, Japanese, Korean, Chinese(Simplified) languages for localization.",
+    "url": "https://appsto.re/kr/rxiFeb.i",
+    "appIcon": {
+      "url":
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/8c/a7/62/8ca76249-377f-1487-0157-35b64bf023d8/AppIcon-1x_U007emarketing-85-220-0-3.png/246x0w.jpg",
+      "width": 42,
+      "height": 42
+    },
+    "heroImages": [],
+    "thumbnails": [
+      {
+        "url":
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/d1/8b/92/d18b92cb-040b-daee-3632-fa92e2a4f503/pr_source.png/300x0w.jpg",
+        "width": 300,
+        "height": 533
+      },
+      {
+        "url":
+          "https://is5-ssl.mzstatic.com/image/thumb/Purple82/v4/4d/33/83/4d338339-1b4f-9096-756f-1ac923a2f570/mzl.pfvlferb.png/300x0w.jpg",
+        "width": 300,
+        "height": 533
+      }
+    ],
+    "prizes": [],
+    "ranks": [
+      "Rank 70th in 'productivity' category (App store Korea on 24th May, 2018)"
+    ],
+    "workSummary": "",
+    "workDetail": "",
+    "period": "",
+    "releaseDate": "",
+    "copyright": "Studio Chocochip",
+    "client": "Studio Chocochip",
+    "category": "service"
+  },
+  {
+    "id": 2,
+    "title": "Capture",
+    "subtitle": "Webpage Fullscreen Capture",
+    "description":
+      "Android Native App to capture entire webpage on Android phone screen. Design, and developed by Java language.",
+    "url":
+      "https://play.google.com/store/apps/details?id=com.studiochocochip.capture&hl=ko",
+    "appIcon": {
+      "url":
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/8c/a7/62/8ca76249-377f-1487-0157-35b64bf023d8/AppIcon-1x_U007emarketing-85-220-0-3.png/246x0w.jpg",
+      "width": 42,
+      "height": 42
+    },
+    "heroImages": [],
+    "thumbnails": [
+      {
+        "url":
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/d1/8b/92/d18b92cb-040b-daee-3632-fa92e2a4f503/pr_source.png/300x0w.jpg",
+        "width": 300,
+        "height": 533
+      },
+      {
+        "url":
+          "https://is5-ssl.mzstatic.com/image/thumb/Purple82/v4/4d/33/83/4d338339-1b4f-9096-756f-1ac923a2f570/mzl.pfvlferb.png/300x0w.jpg",
+        "width": 300,
+        "height": 533
+      }
+    ],
+    "prizes": [],
+    "ranks": [],
+    "workSummary": "",
+    "workDetail": "",
+    "period": "",
+    "releaseDate": "",
+    "copyright": "Studio Chocochip",
+    "client": "Studio Chocochip",
+    "category": "service"
+  },
+  {
+    "id": 3,
+    "title": "Yumyumplate",
+    "subtitle": "Intro one yummy food a day",
+    "description":
+      "WebApp to intro one yummy food a day. Planning, design, and develop WebApp / Admin website by oneself. Developed by javascript, node.js, php, MySQL.",
+    "url": "http://www.dragmove.com/yumyumplate/index.php",
+    "appIcon": {
+      "url": "http://www.dragmove.com/yumyumplate/img/logo.png",
+      "width": 43,
+      "height": 43
+    },
+    "heroImages": [],
+    "thumbnails": [
+      {
+        "url":
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/d1/8b/92/d18b92cb-040b-daee-3632-fa92e2a4f503/pr_source.png/300x0w.jpg",
+        "width": 300,
+        "height": 533
+      },
+      {
+        "url":
+          "https://is5-ssl.mzstatic.com/image/thumb/Purple82/v4/4d/33/83/4d338339-1b4f-9096-756f-1ac923a2f570/mzl.pfvlferb.png/300x0w.jpg",
+        "width": 300,
+        "height": 533
+      }
+    ],
+    "prizes": [],
+    "ranks": [],
+    "workSummary": "",
+    "workDetail": "",
+    "period": "",
+    "releaseDate": "",
+    "copyright": "Studio Chocochip",
+    "client": "Studio Chocochip",
+    "category": "service"
+  },
+  {
+    "id": 4,
+    "title": "aid.js",
+    "subtitle": "A Bundle of Javascript util Library",
+    "description":
+      "A Bundle of Javascript util Library to help developers. No dependency to other Libraries.",
+    "url": "https://www.npmjs.com/package/aid.js",
+    "appIcon": null,
+    "heroImages": [],
+    "thumbnails": [],
+    "prizes": [],
+    "ranks": [],
+    "workSummary": "",
+    "workDetail": "",
+    "period": "",
+    "releaseDate": "",
+    "copyright": "MIT",
+    "client": "",
+    "category": "opensource"
+  },
+  {
+    "id": 5,
+    "title": "kihon",
+    "subtitle": "A Bundle of Lite components",
+    "description":
+      "kihon is a Bundle of Lite components which provide straightforward Interactive UI.",
+    "url": "https://www.npmjs.com/package/kihon",
+    "appIcon": null,
+    "heroImages": [],
+    "thumbnails": [],
+    "prizes": [],
+    "ranks": [],
+    "workSummary": "",
+    "workDetail": "",
+    "period": "",
+    "releaseDate": "",
+    "copyright": "MIT",
+    "client": "",
+    "category": "opensource"
+  }
+];
