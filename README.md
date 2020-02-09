@@ -7,7 +7,6 @@
 
 
 ## Contact
-* @Website : http://www.dragmove.xyz
 * @Blog : http://blog.naver.com/dragmove
 * @LinkedIn : https://www.linkedin.com/in/hyun-seok-kim-99748295/
 * @E-mail : dragmove@gmail.com

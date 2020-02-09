@@ -3,26 +3,22 @@
     "id": 1,
     "title": "Capture - Fullscreen Capture",
     "subtitle": "Webpage Fullscreen Capture",
-    "description":
-      "iOS Native App to capture entire webpage on iPhone screen. Design, and developed by Swift language. Support English, Japanese, Korean, Chinese(Simplified) languages for localization.",
+    "description": "iOS Native App to capture entire webpage on iPhone screen. Design, and developed by Swift language. Support English, Japanese, Korean, Chinese(Simplified) languages for localization.",
     "url": "https://appsto.re/kr/rxiFeb.i",
     "appIcon": {
-      "url":
-        "https://dragmove.github.io/dragmove.com/img/services/capture/icon-capture.jpg",
+      "url": "https://dragmove.github.io/dragmove.com/img/services/capture/icon-capture.jpg",
       "width": 42,
       "height": 42
     },
     "heroImages": [],
     "thumbnails": [
       {
-        "url":
-          "https://dragmove.github.io/dragmove.com/img/services/capture/thumb-capture-1.jpg",
+        "url": "https://dragmove.github.io/dragmove.com/img/services/capture/thumb-capture-1.jpg",
         "width": 300,
         "height": 533
       },
       {
-        "url":
-          "https://dragmove.github.io/dragmove.com/img/services/capture/thumb-capture-2.jpg",
+        "url": "https://dragmove.github.io/dragmove.com/img/services/capture/thumb-capture-2.jpg",
         "width": 300,
         "height": 533
       }
@@ -43,27 +39,21 @@
     "id": 2,
     "title": "Capture",
     "subtitle": "Webpage Fullscreen Capture",
-    "description":
-      "Android Native App to capture entire webpage on Android phone screen. Design, and developed by Java language.",
-    "url":
-      "https://play.google.com/store/apps/details?id=com.studiochocochip.capture&hl=ko",
+    "description": "Android Native App to capture entire webpage on Android phone screen. Design, and developed by Java language.",
     "appIcon": {
-      "url":
-      "https://dragmove.github.io/dragmove.com/img/services/capture/icon-capture.jpg",
+      "url": "https://dragmove.github.io/dragmove.com/img/services/capture/icon-capture.jpg",
       "width": 42,
       "height": 42
     },
     "heroImages": [],
     "thumbnails": [
       {
-        "url":
-        "https://dragmove.github.io/dragmove.com/img/services/capture/thumb-capture-1.jpg",
+        "url": "https://dragmove.github.io/dragmove.com/img/services/capture/thumb-capture-1.jpg",
         "width": 300,
         "height": 533
       },
       {
-        "url":
-        "https://dragmove.github.io/dragmove.com/img/services/capture/thumb-capture-2.jpg",
+        "url": "https://dragmove.github.io/dragmove.com/img/services/capture/thumb-capture-2.jpg",
         "width": 300,
         "height": 533
       }
@@ -82,8 +72,7 @@
     "id": 3,
     "title": "Yumyumplate",
     "subtitle": "Intro one yummy food a day",
-    "description":
-      "WebApp to intro one yummy food a day. Planning, design, and develop WebApp / Admin website by oneself. Developed by javascript, node.js, php, MySQL.",
+    "description": "WebApp to intro one yummy food a day. Planning, design, and develop WebApp / Admin website by oneself. Developed by javascript, node.js, php, MySQL.",
     "url": "http://www.dragmove.com/yumyumplate/index.php",
     "appIcon": {
       "url": "https://dragmove.github.io/dragmove.com/img/services/yumyumplate/icon-yumyumplate.png",
@@ -112,8 +101,7 @@
     "id": 4,
     "title": "aid.js",
     "subtitle": "A Bundle of Javascript util Library",
-    "description":
-      "A Bundle of Javascript util Library to help developers. No dependency to other Libraries.",
+    "description": "A Bundle of Javascript util Library to help developers. No dependency to other Libraries.",
     "url": "https://www.npmjs.com/package/aid.js",
     "appIcon": null,
     "heroImages": [],
@@ -132,8 +120,7 @@
     "id": 5,
     "title": "kihon",
     "subtitle": "A Bundle of Lite components",
-    "description":
-      "kihon is a Bundle of Lite components which provide straightforward Interactive UI.",
+    "description": "kihon is a Bundle of Lite components which provide straightforward Interactive UI.",
     "url": "https://www.npmjs.com/package/kihon",
     "appIcon": null,
     "heroImages": [],
