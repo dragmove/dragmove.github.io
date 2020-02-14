@@ -324,25 +324,6 @@
   },
   {
     "id": 18,
-    "title": "Samsung fire RIA",
-    "titleKor": "삼성화재 자동차보험 RIA",
-    "subtitle": "",
-    "description": "",
-    "url": "",
-    "heroImages": [],
-    "thumbnails": [],
-    "prizes": [],
-    "ranks": [],
-    "workSummary": "",
-    "workDetail": "",
-    "period": "2008.10 - 2008.12",
-    "releaseDate": "",
-    "copyright": "Vricks republic",
-    "client": "Samsung fire",
-    "category": "project"
-  },
-  {
-    "id": 19,
     "title": "Monami design factory website",
     "titleKor": "모나미 디자인 팩토리 웹사이트",
     "subtitle": "",
@@ -361,7 +342,7 @@
     "category": "project"
   },
   {
-    "id": 20,
+    "id": 19,
     "title": "Jigo id website",
     "titleKor": "지고아이디 웹사이트",
     "subtitle": "",
@@ -381,7 +362,7 @@
   },
 
   {
-    "id": 21,
+    "id": 20,
     "title": "LeCoq sportif SS501 website",
     "titleKor": "르꼬끄 스포르티브 SS501 웹사이트",
     "subtitle": "",
@@ -400,7 +381,7 @@
     "category": "project"
   },
   {
-    "id": 22,
+    "id": 21,
     "title": "Samsung fire website",
     "titleKor": "삼성화재 웹사이트",
     "subtitle": "",
@@ -419,7 +400,7 @@
     "category": "project"
   },
   {
-    "id": 23,
+    "id": 22,
     "title": "Melon website",
     "titleKor": "멜론 웹사이트",
     "subtitle": "",
@@ -438,7 +419,7 @@
     "category": "project"
   },
   {
-    "id": 24,
+    "id": 23,
     "title": "Tongyang MyAsset website",
     "titleKor": "동양 MyAsset 웹사이트",
     "subtitle": "",
@@ -457,7 +438,7 @@
     "category": "project"
   },
   {
-    "id": 25,
+    "id": 24,
     "title": "Sports toto website",
     "titleKor": "스포츠토토 웹사이트",
     "subtitle": "",
@@ -476,7 +457,7 @@
     "category": "project"
   },
   {
-    "id": 26,
+    "id": 25,
     "title": "Daekyo artimom website",
     "titleKor": "대교 아티맘 웹사이트",
     "subtitle": "",
@@ -498,7 +479,7 @@
     "category": "project"
   },
   {
-    "id": 27,
+    "id": 26,
     "title": "Hyundai finance shop website",
     "titleKor": "현대 파이낸스샵 웹사이트",
     "subtitle": "",
@@ -517,7 +498,7 @@
     "category": "project"
   },
   {
-    "id": 28,
+    "id": 27,
     "title": "OCI group official website",
     "titleKor": "OCI 그룹 오피셜 웹사이트",
     "subtitle": "",
@@ -536,7 +517,7 @@
     "category": "project"
   },
   {
-    "id": 29,
+    "id": 28,
     "title": "Samsung digital plaza website",
     "titleKor": "삼성 디지털 플라자 웹사이트",
     "subtitle": "",
@@ -555,7 +536,7 @@
     "category": "project"
   },
   {
-    "id": 30,
+    "id": 29,
     "title": "KT U-cloud website",
     "titleKor": "KT 유클라우드 웹사이트",
     "subtitle": "",
@@ -574,7 +555,7 @@
     "category": "project"
   },
   {
-    "id": 31,
+    "id": 30,
     "title": "Hyundai E&C website",
     "titleKor": "현대건설 웹사이트",
     "subtitle": "",
@@ -593,7 +574,7 @@
     "category": "project"
   },
   {
-    "id": 32,
+    "id": 31,
     "title": "CJ donorscamp website",
     "titleKor": "CJ 도너스캠프 웹사이트",
     "subtitle": "",
@@ -612,7 +593,7 @@
     "category": "project"
   },
   {
-    "id": 33,
+    "id": 32,
     "title": "CJ azit website",
     "titleKor": "CJ 아지트 웹사이트",
     "subtitle": "",
@@ -631,7 +612,7 @@
     "category": "project"
   },
   {
-    "id": 34,
+    "id": 33,
     "title": "Samsung card service",
     "titleKor": "삼성카드 웹사이트",
     "subtitle": "",
@@ -650,7 +631,7 @@
     "category": "project"
   },
   {
-    "id": 35,
+    "id": 34,
     "title": "CJ ninebridge website",
     "titleKor": "CJ 나인브릿지 웹사이트",
     "subtitle": "",
@@ -672,7 +653,7 @@
     "category": "project"
   },
   {
-    "id": 36,
+    "id": 35,
     "title": "JLook website",
     "titleKor": "제이룩 웹사이트",
     "subtitle": "",
@@ -691,7 +672,7 @@
     "category": "project"
   },
   {
-    "id": 37,
+    "id": 36,
     "title": "Tongyang plant website",
     "titleKor": "동양플랜트 웹사이트",
     "subtitle": "",
@@ -710,7 +691,7 @@
     "category": "project"
   },
   {
-    "id": 38,
+    "id": 37,
     "title": "Samsung life promotion video",
     "titleKor": "삼성생명 프로모션 모션",
     "subtitle": "",
@@ -729,7 +710,7 @@
     "category": "project"
   },
   {
-    "id": 39,
+    "id": 38,
     "title": "Playhood website",
     "titleKor": "플레이후드 웹사이트",
     "subtitle": "",
@@ -748,7 +729,7 @@
     "category": "project"
   },
   {
-    "id": 40,
+    "id": 39,
     "title": "Shinyoung E&C website",
     "titleKor": "신영건설 웹사이트",
     "subtitle": "",
@@ -767,7 +748,7 @@
     "category": "project"
   },
   {
-    "id": 41,
+    "id": 40,
     "title": "KD Navien experience",
     "titleKor": "경동 나비엔 체험관",
     "subtitle": "",
@@ -786,7 +767,7 @@
     "category": "project"
   },
   {
-    "id": 42,
+    "id": 41,
     "title": "KD One website",
     "titleKor": "경동 원 웹사이트",
     "subtitle": "",
@@ -805,7 +786,7 @@
     "category": "project"
   },
   {
-    "id": 43,
+    "id": 42,
     "title": "SK Innovation battery website",
     "titleKor": "SK 이노베이션 배터리 웹사이트",
     "subtitle": "",
@@ -824,7 +805,7 @@
     "category": "project"
   },
   {
-    "id": 44,
+    "id": 43,
     "title": "Seoul Arts Center mobile",
     "titleKor": "서울 예술의전당 모바일웹",
     "subtitle": "",
@@ -843,7 +824,7 @@
     "category": "project"
   },
   {
-    "id": 45,
+    "id": 44,
     "title": "Samsung Galaxy note2 mobile/web event",
     "titleKor": "서울 갤럭시 노트2 모바일/웹 이벤트",
     "subtitle": "",
@@ -862,7 +843,7 @@
     "category": "project"
   },
   {
-    "id": 46,
+    "id": 45,
     "title": "Hyundai card Interaction Pattern Library",
     "titleKor": "현대카드 인터랙션 패턴 라이브러리",
     "subtitle": "",
@@ -881,7 +862,7 @@
     "category": "project"
   },
   {
-    "id": 47,
+    "id": 46,
     "title": "NCSOFT Blade&soul skill tree 2.0",
     "titleKor": "엔씨소프트 블레이드앤소울 수련 2.0",
     "subtitle": "",
@@ -900,7 +881,7 @@
     "category": "project"
   },
   {
-    "id": 48,
+    "id": 47,
     "title": "NCSOFT Aion 5th anniversary of deva event",
     "titleKor": "엔씨소프트 아이온 5주년 데바 이벤트",
     "subtitle": "",
@@ -919,7 +900,7 @@
     "category": "project"
   },
   {
-    "id": 49,
+    "id": 48,
     "title": "NCSOFT Lineage 15th anniversary event",
     "titleKor": "엔씨소프트 리니지 15주년 이벤트",
     "subtitle": "",
@@ -938,7 +919,7 @@
     "category": "project"
   },
   {
-    "id": 50,
+    "id": 49,
     "title": "LGE web/mobile membership",
     "titleKor": "엘지전자 웹/모바일 전사회원 플랫폼",
     "subtitle": "",
@@ -957,7 +938,7 @@
     "category": "project"
   },
   {
-    "id": 51,
+    "id": 50,
     "title": "NCSOFT NC Journal / Blade&soul service",
     "titleKor": "엔씨소프트 NC저널 / 블레이드앤소울 서비스",
     "subtitle": "",
@@ -976,7 +957,7 @@
     "category": "project"
   },
   {
-    "id": 52,
+    "id": 51,
     "title": "NCT Blade&soul Global Launcher",
     "titleKor": "대만 블레이드앤소울 글로벌 런처",
     "subtitle": "",
@@ -995,7 +976,7 @@
     "category": "project"
   },
   {
-    "id": 53,
+    "id": 52,
     "title": "NCT Blade&soul website",
     "titleKor": "대만 블레이드앤소울 웹사이트",
     "subtitle": "",
@@ -1014,7 +995,7 @@
     "category": "project"
   },
   {
-    "id": 54,
+    "id": 53,
     "title": "MXM CBT website",
     "titleKor": "MXM CBT 웹사이트",
     "subtitle": "",
@@ -1033,7 +1014,7 @@
     "category": "project"
   },
   {
-    "id": 55,
+    "id": 54,
     "title": "NC3 RWD",
     "titleKor": "NC3 RWD",
     "subtitle": "",
@@ -1052,7 +1033,7 @@
     "category": "project"
   },
   {
-    "id": 56,
+    "id": 55,
     "title": "G Star promotion website",
     "titleKor": "지스타 프로모션 웹사이트",
     "subtitle": "",
@@ -1071,7 +1052,7 @@
     "category": "project"
   },
   {
-    "id": 57,
+    "id": 56,
     "title": "Lineage Stat simulator",
     "titleKor": "리니지 스탯 시뮬레이터",
     "subtitle": "",
@@ -1090,7 +1071,7 @@
     "category": "project"
   },
   {
-    "id": 58,
+    "id": 57,
     "title": "Opera 3.0 website",
     "titleKor": "오페라 3.0 웹사이트",
     "subtitle": "",
@@ -1109,7 +1090,7 @@
     "category": "project"
   },
   {
-    "id": 59,
+    "id": 58,
     "title": "Lineage App pledge / friends webview",
     "titleKor": "리니지 앱 혈맹 / 접속친구 웹뷰",
     "subtitle": "",
@@ -1128,7 +1109,7 @@
     "category": "project"
   },
   {
-    "id": 60,
+    "id": 59,
     "title": "Blade&soul Training 3.0",
     "titleKor": "블레이드앤소울 수련 3.0",
     "subtitle": "",
@@ -1147,7 +1128,7 @@
     "category": "project"
   },
   {
-    "id": 61,
+    "id": 60,
     "title": "Lineage RWD website",
     "titleKor": "리니지 반응형 웹사이트",
     "subtitle": "",
@@ -1166,7 +1147,7 @@
     "category": "project"
   },
   {
-    "id": 62,
+    "id": 61,
     "title": "Blade&soul Powerbook training",
     "titleKor": "블레이드앤소울 파워북 수련",
     "subtitle": "",
@@ -1185,7 +1166,7 @@
     "category": "project"
   },
   {
-    "id": 63,
+    "id": 62,
     "title": "Preorder platform",
     "titleKor": "사전예약 플랫폼",
     "subtitle": "",
@@ -1204,7 +1185,7 @@
     "category": "project"
   },
   {
-    "id": 64,
+    "id": 63,
     "title": "Markdown editor on Mink App",
     "titleKor": "마크다운 에디터",
     "subtitle": "",
