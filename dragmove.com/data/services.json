@@ -75,19 +75,19 @@
     "subtitle": "Webpage Fullscreen Capture",
     "description": "Android Native App to capture the entire webpage on Android phone screen. Designed App, and developed by Java language.",
     "appIcon": {
-      "url": "https://dragmove.github.io/dragmove.com/img/services/capture/icon-capture.jpg",
+      "url": "https://dragmove.github.io/dragmove.com/img/services/capture/v1/icon-capture.jpg",
       "width": 42,
       "height": 42
     },
     "heroImages": [],
     "thumbnails": [
       {
-        "url": "https://dragmove.github.io/dragmove.com/img/services/capture/thumb-capture-1.jpg",
+        "url": "https://dragmove.github.io/dragmove.com/img/services/capture/v1/thumb-capture-1.jpg",
         "width": 300,
         "height": 533
       },
       {
-        "url": "https://dragmove.github.io/dragmove.com/img/services/capture/thumb-capture-2.jpg",
+        "url": "https://dragmove.github.io/dragmove.com/img/services/capture/v1/thumb-capture-2.jpg",
         "width": 300,
         "height": 533
       }
