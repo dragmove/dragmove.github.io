@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Capture - Fullscreen Capture (ver.2)",
     "subtitle": "Webpage Fullscreen Capture",
-    "description": "iOS Native App to capture the entire webpage on iPhone screen. Designed App, and developed by Swift language. Support English, Japanese, Korean languages for localization.",
+    "description": "iOS Native App to capture the entire webpage on iPhone screen. Designed App, and developed by SwiftUI + Swift language. Support English, Japanese, Korean languages for localization.",
     "url": "https://appsto.re/kr/rxiFeb.i",
     "appIcon": {
       "url": "https://dragmove.github.io/dragmove.com/img/services/capture/v2/icon-capture.jpg",
