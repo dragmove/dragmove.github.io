@@ -13,17 +13,12 @@
     "heroImages": [],
     "thumbnails": [
       {
-        "url": "https://dragmove.github.io/dragmove.com/img/services/capture/v2/thumb-capture-1.jpg",
+        "url": "https://dragmove.github.io/dragmove.com/img/services/capture/v2/thumb-capture-1.png",
         "width": 300,
         "height": 649
       },
       {
-        "url": "https://dragmove.github.io/dragmove.com/img/services/capture/v2/thumb-capture-2.jpg",
-        "width": 300,
-        "height": 649
-      },
-      {
-        "url": "https://dragmove.github.io/dragmove.com/img/services/capture/v2/thumb-capture-3.jpg",
+        "url": "https://dragmove.github.io/dragmove.com/img/services/capture/v2/thumb-capture-2.png",
         "width": 300,
         "height": 649
       }
