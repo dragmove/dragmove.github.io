@@ -3,8 +3,7 @@
     "id": 1,
     "title": "Capture - Fullscreen Capture (ver.2)",
     "subtitle": "Webpage Fullscreen Capture",
-    "description": "iOS Native App to capture the entire webpage on iPhone screen. Designed App, and developed by SwiftUI + Swift language. Support English, Japanese, Korean languages for localization.",
-    "url": "https://appsto.re/kr/rxiFeb.i",
+    "description": "iOS Native App to capture the entire webpage on iPhone screen. Designed App, and developed by SwiftUI + Swift language. Support English, Japanese, Korean languages for localization. (No longer in service)",
     "appIcon": {
       "url": "https://dragmove.github.io/dragmove.com/img/services/capture/v2/icon-capture.jpg",
       "width": 42,
@@ -37,8 +36,7 @@
     "id": 2,
     "title": "Capture - Fullscreen Capture (ver.1)",
     "subtitle": "Webpage Fullscreen Capture",
-    "description": "iOS Native App to capture the entire webpage on iPhone screen. Designed App, and developed by Swift language. Support English, Japanese, Korean languages for localization.",
-    "url": "https://appsto.re/kr/rxiFeb.i",
+    "description": "iOS Native App to capture the entire webpage on iPhone screen. Designed App, and developed by Swift language. Support English, Japanese, Korean languages for localization. (No longer in service)",
     "appIcon": {
       "url": "https://dragmove.github.io/dragmove.com/img/services/capture/v1/icon-capture.jpg",
       "width": 42,
@@ -73,7 +71,7 @@
     "id": 3,
     "title": "Capture",
     "subtitle": "Webpage Fullscreen Capture",
-    "description": "Android Native App to capture the entire webpage on Android phone screen. Designed App, and developed by Java language.",
+    "description": "Android Native App to capture the entire webpage on Android phone screen. Designed App, and developed by Java language. (No longer in service)",
     "appIcon": {
       "url": "https://dragmove.github.io/dragmove.com/img/services/capture/v1/icon-capture.jpg",
       "width": 42,
@@ -106,8 +104,7 @@
     "id": 4,
     "title": "Yumyumplate",
     "subtitle": "Intro one yummy food a day",
-    "description": "WebApp to intro one yummy food a day. Planning, design, and develop WebApp / Admin website by oneself. Developed by javascript, node.js, php, MySQL.",
-    "url": "http://www.dragmove.com/yumyumplate/index.php",
+    "description": "WebApp to intro one yummy food a day. Planning, design, and develop WebApp / Admin website by oneself. Developed by JavaScript, node.js, php, MySQL. ",
     "appIcon": {
       "url": "https://dragmove.github.io/dragmove.com/img/services/yumyumplate/icon-yumyumplate.png",
       "width": 43,
@@ -134,8 +131,8 @@
   {
     "id": 5,
     "title": "aid.js",
-    "subtitle": "A Bundle of Javascript util Library",
-    "description": "A Bundle of Javascript util Library to help developers. No dependency to other Libraries. Most sources were tested by Jasmine.",
+    "subtitle": "A Bundle of JavaScript util Library",
+    "description": "A Bundle of JavaScript util Library to help developers. No dependency to other Libraries. Most sources were tested by Jasmine.",
     "url": "https://www.npmjs.com/package/aid.js",
     "appIcon": null,
     "heroImages": [],
