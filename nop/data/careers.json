@@ -1,0 +1,37 @@
+[
+  {
+    "id": 5,
+    "company": "포티투닷",
+    "company_eng": "42dot",
+    "position": "Front-end Engineer",
+    "date": "2020.08 - "
+  },
+  {
+    "id": 4,
+    "company": "엔씨소프트",
+    "company_eng": "ncsoft",
+    "position": "Front-end Developer",
+    "date": "2014.07 - 2019.08"
+  },
+  {
+    "id": 3,
+    "company": "브이더블유",
+    "company_eng": "vw",
+    "position": "Interactive Director",
+    "date": "2009.12 - 2012.08"
+  },
+  {
+    "id": 2,
+    "company": "브릭스리퍼블릭",
+    "company_eng": "vricks republic",
+    "position": "Interactive Designer",
+    "date": "2007.07 - 2009.09"
+  },
+  {
+    "id": 1,
+    "company": "솔트케이크",
+    "company_eng": "saltcake",
+    "position": "Flash Actionscripter",
+    "date": "2006.03 - 2007.03"
+  }
+]

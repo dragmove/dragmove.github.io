@@ -1,0 +1,169 @@
+[
+  {
+    "id": 1,
+    "title": "Capture - Fullscreen Capture (ver.2)",
+    "subtitle": "Webpage Fullscreen Capture",
+    "description": "iOS Native App to capture the entire webpage on iPhone screen. Designed App, and developed by SwiftUI + Swift language. Support English, Japanese, Korean languages for localization. (No longer in service)",
+    "appIcon": {
+      "url": "https://dragmove.github.io/dragmove.com/img/services/capture/v2/icon-capture.jpg",
+      "width": 42,
+      "height": 42
+    },
+    "heroImages": [],
+    "thumbnails": [
+      {
+        "url": "https://dragmove.github.io/dragmove.com/img/services/capture/v2/thumb-capture-1.png",
+        "width": 300,
+        "height": 649
+      },
+      {
+        "url": "https://dragmove.github.io/dragmove.com/img/services/capture/v2/thumb-capture-2.png",
+        "width": 300,
+        "height": 649
+      }
+    ],
+    "prizes": [],
+    "ranks": [],
+    "workSummary": "",
+    "workDetail": "",
+    "period": "",
+    "releaseDate": "",
+    "copyright": "Studio Chocochip",
+    "client": "Studio Chocochip",
+    "category": "service"
+  },
+  {
+    "id": 2,
+    "title": "Capture - Fullscreen Capture (ver.1)",
+    "subtitle": "Webpage Fullscreen Capture",
+    "description": "iOS Native App to capture the entire webpage on iPhone screen. Designed App, and developed by Swift language. Support English, Japanese, Korean languages for localization. (No longer in service)",
+    "appIcon": {
+      "url": "https://dragmove.github.io/dragmove.com/img/services/capture/v1/icon-capture.jpg",
+      "width": 42,
+      "height": 42
+    },
+    "heroImages": [],
+    "thumbnails": [
+      {
+        "url": "https://dragmove.github.io/dragmove.com/img/services/capture/v1/thumb-capture-1.jpg",
+        "width": 300,
+        "height": 533
+      },
+      {
+        "url": "https://dragmove.github.io/dragmove.com/img/services/capture/v1/thumb-capture-2.jpg",
+        "width": 300,
+        "height": 533
+      }
+    ],
+    "prizes": [],
+    "ranks": [
+      "Rank 70th in 'productivity' category (App store Korea on 24th May, 2018)"
+    ],
+    "workSummary": "",
+    "workDetail": "",
+    "period": "",
+    "releaseDate": "",
+    "copyright": "Studio Chocochip",
+    "client": "Studio Chocochip",
+    "category": "service"
+  },
+  {
+    "id": 3,
+    "title": "Capture",
+    "subtitle": "Webpage Fullscreen Capture",
+    "description": "Android Native App to capture the entire webpage on Android phone screen. Designed App, and developed by Java language. (No longer in service)",
+    "appIcon": {
+      "url": "https://dragmove.github.io/dragmove.com/img/services/capture/v1/icon-capture.jpg",
+      "width": 42,
+      "height": 42
+    },
+    "heroImages": [],
+    "thumbnails": [
+      {
+        "url": "https://dragmove.github.io/dragmove.com/img/services/capture/v1/thumb-capture-1.jpg",
+        "width": 300,
+        "height": 533
+      },
+      {
+        "url": "https://dragmove.github.io/dragmove.com/img/services/capture/v1/thumb-capture-2.jpg",
+        "width": 300,
+        "height": 533
+      }
+    ],
+    "prizes": [],
+    "ranks": [],
+    "workSummary": "",
+    "workDetail": "",
+    "period": "",
+    "releaseDate": "",
+    "copyright": "Studio Chocochip",
+    "client": "Studio Chocochip",
+    "category": "service"
+  },
+  {
+    "id": 4,
+    "title": "Yumyumplate",
+    "subtitle": "Intro one yummy food a day",
+    "description": "WebApp to intro one yummy food a day. Planning, design, and develop WebApp / Admin website by oneself. Developed by JavaScript, node.js, php, MySQL. ",
+    "appIcon": {
+      "url": "https://dragmove.github.io/dragmove.com/img/services/yumyumplate/icon-yumyumplate.png",
+      "width": 43,
+      "height": 43
+    },
+    "heroImages": [],
+    "thumbnails": [
+      {
+        "url": "https://dragmove.github.io/dragmove.com/img/services/yumyumplate/thumb-yumyumplate-1.jpg",
+        "width": 632,
+        "height": 450
+      }
+    ],
+    "prizes": [],
+    "ranks": [],
+    "workSummary": "",
+    "workDetail": "",
+    "period": "",
+    "releaseDate": "",
+    "copyright": "Studio Chocochip",
+    "client": "Studio Chocochip",
+    "category": "service"
+  },
+  {
+    "id": 5,
+    "title": "aid.js",
+    "subtitle": "A Bundle of JavaScript util Library",
+    "description": "A Bundle of JavaScript util Library to help developers. No dependency to other Libraries. Most sources were tested by Jasmine.",
+    "url": "https://www.npmjs.com/package/aid.js",
+    "appIcon": null,
+    "heroImages": [],
+    "thumbnails": [],
+    "prizes": [],
+    "ranks": [],
+    "workSummary": "",
+    "workDetail": "",
+    "period": "",
+    "releaseDate": "",
+    "copyright": "MIT",
+    "client": "",
+    "category": "opensource"
+  },
+  {
+    "id": 6,
+    "title": "kihon",
+    "subtitle": "A Bundle of Lite components",
+    "description": "kihon is a Bundle of Lite components which provide straightforward Interactive UI. Support ES2015+.",
+    "url": "https://www.npmjs.com/package/kihon",
+    "appIcon": null,
+    "heroImages": [],
+    "thumbnails": [],
+    "prizes": [],
+    "ranks": [],
+    "workSummary": "",
+    "workDetail": "",
+    "period": "",
+    "releaseDate": "",
+    "copyright": "MIT",
+    "client": "",
+    "category": "opensource"
+  }
+]
