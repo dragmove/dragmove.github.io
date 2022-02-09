@@ -1,0 +1,35 @@
+{
+  "../client/driver/components/templates/DetailPageLayout/DetailPageLayout.tsx -> @common/components/organisms/EditorViewer/EditorViewer": {
+    "id": 97126,
+    "files": [
+      "static/css/ee368c1008b473e305bb.css",
+      "static/chunks/1606726a.a00dd5a714a38ef5693b.js",
+      "static/chunks/de49cc29.21feb2fc47ddc93f50dc.js",
+      "static/chunks/ccf7da5b.bb17a3831906d5c890dd.js",
+      "static/chunks/641.b542b0fd1ff5da36b619.js",
+      "static/chunks/126.cc53a29cbf80d35cbd27.js"
+    ]
+  },
+  "../client/rider/components/pages/faq/templates/FaqListTemplate.tsx -> @common/components/organisms/EditorViewer/EditorViewer": {
+    "id": 97126,
+    "files": [
+      "static/css/ee368c1008b473e305bb.css",
+      "static/chunks/1606726a.a00dd5a714a38ef5693b.js",
+      "static/chunks/de49cc29.21feb2fc47ddc93f50dc.js",
+      "static/chunks/ccf7da5b.bb17a3831906d5c890dd.js",
+      "static/chunks/641.b542b0fd1ff5da36b619.js",
+      "static/chunks/126.cc53a29cbf80d35cbd27.js"
+    ]
+  },
+  "../client/rider/components/templates/DetailPageLayout/DetailPageLayout.tsx -> @common/components/organisms/EditorViewer/EditorViewer": {
+    "id": 97126,
+    "files": [
+      "static/css/ee368c1008b473e305bb.css",
+      "static/chunks/1606726a.a00dd5a714a38ef5693b.js",
+      "static/chunks/de49cc29.21feb2fc47ddc93f50dc.js",
+      "static/chunks/ccf7da5b.bb17a3831906d5c890dd.js",
+      "static/chunks/641.b542b0fd1ff5da36b619.js",
+      "static/chunks/126.cc53a29cbf80d35cbd27.js"
+    ]
+  }
+}

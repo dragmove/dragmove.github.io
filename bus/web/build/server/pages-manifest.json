@@ -1,0 +1,21 @@
+{
+  "/404": "pages/404.js",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/debug": "pages/debug.js",
+  "/driver/auth/notice/[noticeId]": "pages/driver/auth/notice/[noticeId].js",
+  "/driver/auth/notice": "pages/driver/auth/notice.js",
+  "/driver/faq": "pages/driver/faq.js",
+  "/driver/terms/[termsId]": "pages/driver/terms/[termsId].js",
+  "/driver/terms": "pages/driver/terms.js",
+  "/rider/auth/orders/[orderId]": "pages/rider/auth/orders/[orderId].js",
+  "/rider/auth/orders": "pages/rider/auth/orders.js",
+  "/rider/faq": "pages/rider/faq.js",
+  "/rider/location": "pages/rider/location.js",
+  "/rider/notice/[noticeId]": "pages/rider/notice/[noticeId].js",
+  "/rider/notice": "pages/rider/notice.js",
+  "/rider/privacy": "pages/rider/privacy.js",
+  "/rider/terms/[serviceTargetCode]/[termsCategoryId]": "pages/rider/terms/[serviceTargetCode]/[termsCategoryId].js",
+  "/unauthorized": "pages/unauthorized.js",
+  "/_error": "pages/_error.js"
+}
